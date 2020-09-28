@@ -17,7 +17,7 @@
     "dependencies": {
         "node-opcua": "2.5.12",
         "node-yaml-config": "0.0.5",
-        "winston": "^3.2.1",
-        "xstate": "^4.9.1"
+        "winston": "^3.3.3",
+        "xstate": "^4.13.0"
     }
 }
